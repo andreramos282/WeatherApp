@@ -11,6 +11,12 @@
     font-family: var(--roboto-font);
 }
 
+body {
+    background-color: #121212;
+    color: #ffffff;
+    line-height: 1.6;
+}
+
 main {
     min-height: 100dvh;
     max-height: auto;
